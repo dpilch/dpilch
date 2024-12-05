@@ -14,4 +14,4 @@ Hi there! I'm Dane 👋
 
 ## Top Languages
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=dpilch&layout=compact&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=dpilch&layout=compact&theme=radical&hide=swift)
