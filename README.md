@@ -10,8 +10,8 @@ Hi there! I'm Dane 👋
 
 ## GitHub Stats
 
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=dpilch&show_icons=true&theme=radical)
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=dpilch&show_icons=true)
 
 ## Top Languages
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=dpilch&layout=compact&theme=radical&hide=swift)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=dpilch&layout=compact&hide=swift)
