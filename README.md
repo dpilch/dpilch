@@ -4,7 +4,7 @@ Hi there! I'm Dane 👋
 
 ## About Me
 
-- 🔭 I’m currently working on AWS Amplify.
+- 🔭 I’m currently working on clinical AI.
 - 💬 Ask me about Balatro.
 - 😄 Pronouns: he/him
 
